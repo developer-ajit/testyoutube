@@ -1,0 +1,180 @@
+body,h1,h2,h3,h4,h5,h6, p,a,span,strong{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    position: abso;
+}
+
+
+img{
+    max-width: 100%;
+}
+.container-fluid{
+    padding-left: 0;
+}
+
+/* main css */
+/* main css */
+/* main css */
+/* header-section */
+.header-section{
+    background: #fff;
+
+}
+.header-section .navbar-brand img {
+    height: 25px;
+    margin-right: 10px;
+}
+.header-section .navbar-brand span {
+    display: inline-block;
+    color: #c91c1f;
+    font-size: 15px;
+}
+.header-form{
+    position: relative;
+    right: 111px;
+}
+.header-form input {
+    width: 397px;
+    height: 24px;
+    padding: 0 10px;
+}
+.header-form a {
+    color: #bfb1b1;
+    background: #f8f8f8;
+    padding: 0 18px;
+    font-size: 10px;
+    line-height: 17px;
+    padding: 4px 30px;
+    border-radius: 5px;
+    position: relative;
+    left: -5px;
+}
+.header-button .btn {
+    font-size: 10px;
+    background: #f8f8f8;
+    padding: 2px 11px;
+    color: #111;
+    border: 1px solid #111;
+}
+.header-button .btn-primary {
+    background: #167ac6;
+    color: #fff;
+    border: 1px solid #167ac6;
+}
+
+/* youtobe content */
+.youtube-content {
+    background: #f1f1f1;
+    padding-bottom: 34px;
+}
+.youtube-left-content {
+    position: fixed;
+    width: 217px;
+    height: 100%;
+}
+.youtube-left-content{background: #fff;padding: 10px;}
+.youtobe-left-top a{background: red;display: block;color: #fff;padding: 0 5px;border-radius: 5px;margin-bottom: 0px;}
+.youtobe-left-mano ul{
+    list-style: none;
+    padding: 0;
+}
+.youtobe-left-mano ul li { display: block;}
+.youtobe-left-mano ul li img{
+    height: 14px;
+    margin-right: 10px;
+}
+.youtobe-left-mano ul li a{font-size: 11px;color: #111; transition: .3s;}
+.youtobe-left-mano ul li:hover{
+    background: #878787;
+}
+.youtobe-left-bottom a{font-size: 12px;color: #111;}
+.youtobe-left-bottom a span{font-size: 10px;background: #878787;color: #fff;border-radius: 50%;height: 17px;width: 17px;display: inline-block;text-align: center;line-height: 17px;} 
+.youtobe-left-bottom p{font-size: 12px;} 
+
+/* youtobe main right content */
+.youtobe-right-content{
+    background: #fff;
+    margin-top: 2px;
+    padding: 10px;
+}
+.youtobe-header-left-img{margin-right: 10px;}
+.youtobe-header-left-content a{font-size: 9px;font-weight: 600;color: #111;}
+.youtobe-header-left-content p a{font-size: 9px;}
+.youtobe-header-left-content p{font-size: 9px;margin: 1px;}
+.youtobe-header-right-img img {
+    height: 49px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+/* you video section */
+.cenel-logo {
+    height: 25px;
+}
+.cenel-img img {
+    height: 10px;
+    margin-right: 10px;
+}
+    .cenel-img span {
+        font-size: 10px;
+        font-weight: bold;
+        margin-right: 5px;
+    }
+    .cenel-img p {
+        font-size: 10px;
+    }
+.subscribe-button .btn-danger {
+    padding: 0 5px;
+    font-size: 10px;
+}
+.subscribe-button .btn-info {
+    font-size: 10px;
+    background: #c4b2b2;
+    padding: 2px 5px;
+    color: black;
+    border: none;
+}
+
+
+/* youtobe footer */
+.footer-contact {
+        background: #fff;
+        border-left: 1px solid #111;
+        padding-left: 20px;
+        margin-left: 80px;
+}
+.footer-mano-top ul{
+  list-style: none;
+  padding: 0;
+}
+.footer-mano-top ul li{
+    display: inline-block;
+}
+.footer-mano-top ul li .btn{
+    padding: 5px;
+    font-size: 10px;
+    color: #111;
+    background: #f1f1f1;
+}
+.footer-mano-bottom ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+.footer-mano-bottom ul li{
+    display: inline-block;
+}
+.footer-mano-bottom ul li a{
+    padding: 5px;
+    font-size: 10px;
+    color: #111;
+}
+.footer-mano-bottom ul li a:hover{
+    color:#167ac6 ;
+    text-decoration: underline;
+}
+ .footer-section .container{
+    max-width: 1100px;
+}
